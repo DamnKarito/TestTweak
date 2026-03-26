@@ -1,0 +1,9 @@
+Package: com.you.test
+Name: TestTweak
+Depends: mobilesubstrate | substitute | libhooker
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Test tweak generated thru Bappalot Studios Theos IDE
+Author: Test Tweak
+Maintainer: Test Tweak
+Section: Tweaks
